@@ -12,7 +12,7 @@ body{
 .container{
     
     height: 300px;
-    max-width: 350px;
+    max-width: 400px;
     border: 1px dotted grey;
     margin: 20vh auto;
     padding: 5px ;
@@ -32,6 +32,7 @@ body{
 button{
     width: 100%;
     margin-top: 20px;
+    margin-bottom:10px;
     padding: 8px;
     font-size: medium;
     border: 5px;
